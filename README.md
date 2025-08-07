@@ -1,4 +1,4 @@
 # mvp-ml
-MVP de Engenharia de Dados - Estudo de Modelo de Classificação
+MVP Data Science - Classification Model Study
 
 Link QuickSetup: https://github.com/joel-c-dutra/mvp-ml
